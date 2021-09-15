@@ -10,10 +10,8 @@
   "dependencies": {
     "@immowelt/eslint-config-immowelt-base": "2.0.0",
     "eslint": "^7.32.0",
-    "eslint-plugin-flowtype-errors": "^4.4.0",
     "eslint-plugin-jest": "^24.4.0",
-    "eslint-plugin-vue": "^7.17.0",
-    "flow-bin": "^0.159.0"
+    "eslint-plugin-vue": "^7.17.0"
   },
   "devDependencies": {
     "semantic-release": "^17.4.7"

@@ -9,13 +9,10 @@ module.exports = {
   },
   extends: [
     '@immowelt/eslint-config-immowelt-base',
-    'plugin:flowtype/recommended',
     'plugin:jest/recommended',
     'plugin:vue/recommended'
   ],
   plugins: [
-    'flowtype',
-    'flowtype-errors',
     'vue'
   ],
   globals: {
