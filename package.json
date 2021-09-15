@@ -7,10 +7,6 @@
   "author": "Kevin Ruff <kevin.ruff@immonet.de>",
   "license": "MIT",
   "private": false,
-  "engines": {
-    "node": ">=8.11.4",
-    "yarn": ">=1.6.0"
-  },
   "dependencies": {
     "@immowelt/eslint-config-immowelt-base": "1.1.0",
     "eslint": "^5.6.1",
@@ -48,6 +44,10 @@
         {
           "type": "SECURITY",
           "release": "patch"
+        },
+        {
+          "type": "PATCH",
+          "release": "patch"
         }
       ]
     }
@@ -57,5 +57,13 @@
     "config",
     "immowelt",
     "vuejs"
-  ]
+  ],
+  "engines": {
+    "node": ">=12.22.6",
+    "yarn": ">=1.6.0"
+  },
+  "volta": {
+    "node": "12.22.6",
+    "yarn": "1.22.11"
+  }
 }
