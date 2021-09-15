@@ -17,7 +17,7 @@
     "eslint-plugin-flowtype-errors": "^3.6.0",
     "eslint-plugin-jest": "^21.26.0",
     "eslint-plugin-vue": "^4.7.1",
-    "flow-bin": "^0.83.0"
+    "flow-bin": "^0.159.0"
   },
   "devDependencies": {
     "semantic-release": "^15.9.17"
