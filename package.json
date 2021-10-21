@@ -9,7 +9,7 @@
   "private": false,
   "dependencies": {
     "@immowelt/eslint-config-immowelt-base": "2.0.4",
-    "eslint": "^7.32.0",
+    "eslint": "^8.0.0",
     "eslint-plugin-jest": "^25.0.0",
     "eslint-plugin-vue": "^7.17.0"
   },
