@@ -3,7 +3,6 @@ const rules = require('./rules');
 module.exports = {
   parser: 'vue-eslint-parser',
   parserOptions: {
-    parser: 'babel-eslint',
     ecmaVersion: 2017,
     sourceType: 'module'
   },
