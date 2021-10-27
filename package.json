@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@immowelt/eslint-config-immowelt-base": "3.0.0",
+    "@immowelt/eslint-config-immowelt-base": "3.0.1",
     "eslint": "^8.1.0",
     "eslint-plugin-jest": "^25.2.2",
     "eslint-plugin-vue": "^7.20.0"
