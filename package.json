@@ -11,7 +11,7 @@
     "@immowelt/eslint-config-immowelt-base": "3.0.1",
     "eslint": "^8.1.0",
     "eslint-plugin-jest": "^25.2.2",
-    "eslint-plugin-vue": "^7.20.0"
+    "eslint-plugin-vue": "^8.0.0"
   },
   "devDependencies": {
     "eslint-plugin-compat": "^3.13.0",
