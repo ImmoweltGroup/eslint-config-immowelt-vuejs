@@ -4,8 +4,7 @@ module.exports = {
     {
       singleline: 3,
       multiline: {
-        max: 5,
-        allowFirstLine: false
+        max: 5
       }
     }
   ],

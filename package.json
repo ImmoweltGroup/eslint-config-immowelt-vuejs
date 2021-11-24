@@ -7,20 +7,20 @@
   "author": "Kevin Ruff <kevin.ruff@immonet.de>",
   "license": "MIT",
   "private": false,
-  "dependencies": {
-    "@immowelt/eslint-config-immowelt-base": "3.0.1",
-    "eslint": "^8.1.0",
-    "eslint-plugin-jest": "^25.2.2",
-    "eslint-plugin-vue": "^7.20.0"
-  },
-  "devDependencies": {
-    "eslint-plugin-compat": "^3.13.0",
-    "jest": "^27.3.1",
-    "semantic-release": "^17.4.7"
-  },
   "scripts": {
     "lint": "eslint .",
     "release": "semantic-release"
+  },
+  "dependencies": {
+    "@immowelt/eslint-config-immowelt-base": "3.1.0",
+    "eslint": "^8.3.0",
+    "eslint-plugin-jest": "^25.3.0",
+    "eslint-plugin-vue": "^8.1.1"
+  },
+  "devDependencies": {
+    "eslint-plugin-compat": "^4.0.0",
+    "jest": "^27.3.1",
+    "semantic-release": "^18.0.1"
   },
   "publishConfig": {
     "access": "public"
