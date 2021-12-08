@@ -12,7 +12,7 @@
     "release": "semantic-release"
   },
   "dependencies": {
-    "@immowelt/eslint-config-immowelt-base": "3.1.0",
+    "@immowelt/eslint-config-immowelt-base": "3.1.1",
     "eslint": "^8.3.0",
     "eslint-plugin-jest": "^25.3.0",
     "eslint-plugin-vue": "^8.1.1"
